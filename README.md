@@ -44,8 +44,8 @@ O design foi inspirado em um modelo no **Figma**, com elementos modernos, fontes
    ```
 5. Abra no navegador:
    ```
-http://localhost:3000
-```
+   http://localhost:3000
+   ```
 
 ## 🖼️ Capturas de Tela
 ![Imagem do projeto](public/assets/burger print.png)
