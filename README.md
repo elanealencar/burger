@@ -48,8 +48,8 @@ O design foi inspirado em um modelo no **Figma**, com elementos modernos, fontes
    ```
 
 ## 🖼️ Capturas de Tela
-![Imagem do projeto](public/assets/burger print.png)
-![Imagem do projeto](public/assets/burger print 2.png)
+![Print](public/assets/burger%20print.png)
+![Print2](public/assets/burger%20print%202.png)
 
 ---
 ✍️ Criado por [Elane Alencar](https://github.com/elanealencar)
